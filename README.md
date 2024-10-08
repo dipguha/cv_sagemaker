@@ -73,4 +73,50 @@ api_token = {"username":"", "key":""}
 1. From sagemaker.tuner - import CategoricalParameter, ContinuousParameter, HyperparameterTuner
 2. learning_rate
 3. Gradient decent - mini_batch_size
-   
+
+# Lecture 32: Setting up the training job
+1. Maximize accuracy
+2. Train the model 5 times with 5 different hyperparameter values
+3. Bayesian search
+4. Amazon SageMaker developer guide
+
+# Lecture 33: Starting our training job 
+1. tuner.fit - run the tuner job
+2. Check CloudWatch
+
+# Lecture 34: Evaluating our training job
+1. 
+
+# Lecture 35: Deploying our model locally
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
+
+# Lecture x:
